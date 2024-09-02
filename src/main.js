@@ -14,6 +14,7 @@ const config = {
   pixelArt: true,
   physics: {
     default: 'arcade',
+    // Arcade physics settings (if needed in the future)
     // arcade: {
     //   gravity: { y: 100 }
     // }
